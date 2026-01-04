@@ -7,7 +7,7 @@ My work focuses on real-world decision-making, clean analytical thinking, and pr
 
 ---
 
-## 🚀 Featured Projects (Start Here)
+## 🚀 Featured Projects 
 
 ### 1️⃣ Smartphone Resale Price Prediction
 **Objective:** Predict resale prices of used smartphones using device specifications and market factors.  
